@@ -36,12 +36,7 @@ export default function Tasks() {
             >
               your tasks:
             </motion.p>
-            <Reorder.Group
-              axis="y"
-              values={todos}
-              onReorder={handleReorder}
-              layoutScroll
-            >
+            <Reorder.Group axis="y" values={todos} onReorder={handleReorder}>
               {todos.map((todo, index) => (
                 <Todo key={todo.id} todo={todo} index={index} />
               ))}
