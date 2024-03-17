@@ -47,9 +47,12 @@ export default function Todo({ todo, index }) {
   const todoVariants = {
     offscreen: {
       y: 60,
+      opacity: 0,
     },
     onscreen: {
       y: 0,
+      opacity: 1,
+
       transition: {
         type: "spring",
         bounce: 0.4,
