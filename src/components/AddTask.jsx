@@ -30,7 +30,7 @@ export default function AddTask() {
             toggle(true);
             setIsDisabled(true);
           }}
-          className="group flex justify-center items-center relative h-10 w-10  overflow-hidden rounded-[50%] bg-[#ff5631] shadow disabled:hidden"
+          className="group flex justify-center items-center fixed right-5 bottom-5 h-10 w-10  overflow-hidden rounded-[50%] bg-[#ff5631] shadow disabled:hidden"
           disabled={isDisabled}
         >
           <div className="absolute inset-0 w-0 bg-white transition-all duration-[250ms] ease-out group-hover:w-full"></div>

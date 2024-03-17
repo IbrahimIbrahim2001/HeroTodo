@@ -19,7 +19,7 @@ export default function Tasks() {
             initial={{ pathLength: 0 }}
             animate={{ pathLength: 1 }}
             transition={{ duration: 10 }}
-            className="relative left-[50%] translate-x-[-50%] overflow-auto scrollbar-hide p-6 sm:border border-[#928775] rounded-lg min-h-96 w-full sm:min-w-64 sm:max-w-96"
+            className="relative left-[50%] translate-x-[-50%] overflow-auto scrollbar-hide p-6 sm:border border-[#928775] rounded-lg  min-h-96 w-full sm:min-w-64 sm:max-w-96"
           >
             <motion.p
               initial={{ opacity: 0, x: -50 }}

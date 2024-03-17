@@ -13,7 +13,7 @@ import VisibilityContextProvider from "./context/VisibilityContextProvider";
 
 function App() {
   return (
-    <div className="w-screen h-screen bg-[#0d0d0d] grid place-content-start grid-cols-1 pb-5">
+    <div className="w-screen min-h-screen bg-[#0d0d0d] grid place-content-start grid-cols-1 pb-5">
       <Navbar />
       <VisibilityContextProvider>
         <Todos />
