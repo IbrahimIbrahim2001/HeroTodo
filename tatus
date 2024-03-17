@@ -1,0 +1,23 @@
+[33mcommit 74a25c4cc8a78ab49df15c7ac587d4481bcfec11[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: IbrahimIbrahim2001 <ii8538098@gmail.com>
+Date:   Sun Mar 17 04:42:22 2024 -0400
+
+    fixed-- rotating devices problem
+
+[33mcommit b2479a5593b5450ca321f6ebc75a1c329925fa5f[m
+Author: IbrahimIbrahim2001 <ii8538098@gmail.com>
+Date:   Sun Mar 17 04:20:11 2024 -0400
+
+    added opacity to motion paragrah in Todo.jsx
+
+[33mcommit 6549f96748093518d21d8a9604cb736a5cdfe22a[m
+Author: IbrahimIbrahim2001 <ii8538098@gmail.com>
+Date:   Sun Mar 17 04:14:17 2024 -0400
+
+    fix some issuse---1
+
+[33mcommit 7ebf41c1b69633e3ccbe83d182f8952f48c6f9d0[m
+Author: IbrahimIbrahim2001 <ii8538098@gmail.com>
+Date:   Sat Mar 16 05:23:51 2024 -0400
+
+    add deploy workflow
